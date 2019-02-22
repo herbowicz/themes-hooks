@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="main">
-      <button className="button">Button</button>
+      <button className="button">Buttoon</button>
       <div className="theme-changer">
         {themes.map((theme, i) => (
           <label key={i}>
